@@ -4,7 +4,7 @@
     "description": "Just a website for discord webhooks.",
     "main": "./discordwebhooksender.html",
     "scripts": {
-        "website": "./discordwebhooksender.html",
+        "website": "./discordwebhooksender.html"
     },
     "repository": {
         "type": "git",
